@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gavanwp
-- 👀 I’m interested in ... Web and App development 
+- 👀 I’m interested in  Learn Programming Languages..................
 - 🌱 I’m currently learning ...  Something......New..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... admin@gavanwp.com

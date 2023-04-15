@@ -26,3 +26,5 @@
 
    <br/>
   <img src="https://streak-stats.demolab.com/?user=gavanwp" alt="git stats" />
+  
+  ![Snake animation](https://github.com/JeffersonRPM/JeffersonRPM/blob/output/github-contribution-grid-snake.svg)

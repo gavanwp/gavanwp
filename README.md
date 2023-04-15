@@ -23,5 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gavanwp&show_icons=true&locale=en&layout=compact" alt="gavanwp" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=gavanwp&show_icons=true&locale=en" alt="gavanwp" /></p>
-
+<br/>
   <img src="https://streak-stats.demolab.com/?user=gavanwp" alt="git stats" />

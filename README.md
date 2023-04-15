@@ -26,7 +26,7 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=gavanwp&show_icons=true&locale=en" alt="gavanwp" /></p>
 
    <br/>
-  <img src="https://streak-stats.demolab.com/?user=gavanwp" alt="git stats" />
+  <img src="https://streak-stats.demolab.com/?user=gavanwp" align="center" alt="git stats" />
   
   ![Snake animation](https://github.com/JeffersonRPM/JeffersonRPM/blob/output/github-contribution-grid-snake.svg)
   

@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=gavanwp&show_icons=true&locale=en" alt="gavanwp" /></p>
 
-       <img src="https://streak-stats.demolab.com/?user=gavanwp" alt="git stats" />
+  <img src="https://streak-stats.demolab.com/?user=gavanwp" alt="git stats" />

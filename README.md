@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [gavanwp.com](gavanwp.com)
 
-- 📫 How to reach me **admin@gavanwp.com**
+- 📫 How to reach me **wpgavan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

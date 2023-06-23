@@ -36,7 +36,5 @@
 
 
 
-
-
-a = 400
-print(a)
+while true:
+ print('hello')

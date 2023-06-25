@@ -36,5 +36,3 @@
 
 
 
-while true:
- print('hello')

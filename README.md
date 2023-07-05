@@ -32,6 +32,6 @@
   
 
 
-https://admissions.iuck.org/applyonline
+
 
 
